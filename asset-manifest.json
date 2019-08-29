@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/amplify/static/css/main.2cce8147.chunk.css",
+    "main.js": "/amplify/static/js/main.2c70ac4a.chunk.js",
+    "main.js.map": "/amplify/static/js/main.2c70ac4a.chunk.js.map",
+    "runtime~main.js": "/amplify/static/js/runtime~main.b87b2229.js",
+    "runtime~main.js.map": "/amplify/static/js/runtime~main.b87b2229.js.map",
+    "static/css/2.eee0f4a3.chunk.css": "/amplify/static/css/2.eee0f4a3.chunk.css",
+    "static/js/2.8ab2f942.chunk.js": "/amplify/static/js/2.8ab2f942.chunk.js",
+    "static/js/2.8ab2f942.chunk.js.map": "/amplify/static/js/2.8ab2f942.chunk.js.map",
+    "index.html": "/amplify/index.html",
+    "precache-manifest.6b251a91dfa10f488915ba24f82de6a1.js": "/amplify/precache-manifest.6b251a91dfa10f488915ba24f82de6a1.js",
+    "service-worker.js": "/amplify/service-worker.js",
+    "static/css/2.eee0f4a3.chunk.css.map": "/amplify/static/css/2.eee0f4a3.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/amplify/static/css/main.2cce8147.chunk.css.map"
+  }
+}
