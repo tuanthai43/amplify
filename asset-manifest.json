@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/amplify/static/css/main.2cce8147.chunk.css",
-    "main.js": "/amplify/static/js/main.513537e4.chunk.js",
-    "main.js.map": "/amplify/static/js/main.513537e4.chunk.js.map",
-    "runtime~main.js": "/amplify/static/js/runtime~main.44497c39.js",
-    "runtime~main.js.map": "/amplify/static/js/runtime~main.44497c39.js.map",
-    "static/js/2.6744aaa9.chunk.js": "/amplify/static/js/2.6744aaa9.chunk.js",
-    "static/js/2.6744aaa9.chunk.js.map": "/amplify/static/js/2.6744aaa9.chunk.js.map",
+    "main.js": "/amplify/static/js/main.10db6b5b.chunk.js",
+    "main.js.map": "/amplify/static/js/main.10db6b5b.chunk.js.map",
+    "runtime~main.js": "/amplify/static/js/runtime~main.b87b2229.js",
+    "runtime~main.js.map": "/amplify/static/js/runtime~main.b87b2229.js.map",
+    "static/css/2.eee0f4a3.chunk.css": "/amplify/static/css/2.eee0f4a3.chunk.css",
+    "static/js/2.8ab2f942.chunk.js": "/amplify/static/js/2.8ab2f942.chunk.js",
+    "static/js/2.8ab2f942.chunk.js.map": "/amplify/static/js/2.8ab2f942.chunk.js.map",
     "index.html": "/amplify/index.html",
-    "precache-manifest.1bc21db8ed078c5e5070893efe0bc79b.js": "/amplify/precache-manifest.1bc21db8ed078c5e5070893efe0bc79b.js",
+    "precache-manifest.12de7492a6d3185bb4776ecd45dc2460.js": "/amplify/precache-manifest.12de7492a6d3185bb4776ecd45dc2460.js",
     "service-worker.js": "/amplify/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/amplify/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/amplify/static/media/logo.5d5d9eef.svg"
+    "static/css/2.eee0f4a3.chunk.css.map": "/amplify/static/css/2.eee0f4a3.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/amplify/static/css/main.2cce8147.chunk.css.map"
   }
 }
